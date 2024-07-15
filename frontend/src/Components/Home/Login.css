@@ -1,0 +1,61 @@
+.login{
+
+
+ align-items: center;
+ margin-left: 50px;
+  
+
+}
+
+.emailicon{
+    position: absolute;
+    padding: 10px;
+    min-width: 40px;
+}
+.passwordicon{
+    position: absolute;
+    padding: 10px;
+    min-width: 40px;
+    
+}
+.input
+{
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    
+   
+}
+.Loginbutton{
+padding: 10px;
+align-items: center;
+font-weight: 700;
+border-radius: 20px;
+margin-right: 1rem;
+background-color: navy;
+width: 100%;
+}
+.Loginbutton:hover{
+    color:blue;
+    background-color: black;
+    transition: 1s;
+    box-shadow: 0 0 20px rgba(224, 221, 221, 0.8);
+   
+      scale: 1.1;
+}
+
+.imagecontainer{
+    background-image: url('../images/girl.jpg');
+    background-size: cover;
+    width: 550px; 
+height: 550px; 
+object-fit: cover;
+object-position: 25% 25%; 
+margin-top: 100px;
+
+
+margin-left: "30px";
+/* border: 1px solid blue;  */
+  
+}
